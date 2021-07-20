@@ -102,27 +102,31 @@ img {
   }
 
   .row img {
-    width: 50%;
+    width: 30%;
     height: auto;
   }
 
   #why .row img {
-    width: 25%;
+    width: 15%;
   }
 
   #why .row>.first,
   #why .row>.second,
   #why .row>.third {
-    margin-top: 20px;
+    margin-top: 10px;
   }
 
   h3 {
     margin: 0;
   }
 
+  h1 {
+    margin-top: 0;
+  }
+
   .left,
   .central,
   .right {
-    margin-bottom: 20px;
+    margin-bottom: 15px;
   }
 }
